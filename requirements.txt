@@ -1,0 +1,10 @@
+Django>=3.0,<3.2.0
+djangorestframework>=3.11.0,<3.13.0
+markdown
+django-filter
+django-cors-headers
+djangorestframework-simplejwt
+python-decouple
+psycopg2-binary
+holidays
+pillow
